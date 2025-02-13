@@ -1,2 +1,2 @@
 # xiaozhi-esp32
-xiaozhi-esp32-AI-Chat
+xiaozhi-esp32-AI-Chataaa
